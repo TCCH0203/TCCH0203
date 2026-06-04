@@ -1,16 +1,16 @@
 ## Hi, I'm Terry!
 
-<!--
-**TCCH0203/TCCH0203** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+!--
+MSc Risk Management and Financial Engineering @ Imperial College London
+BSc Quantitative Finance and Risk Management(Minor Statistics and minor in Computer Science) @ The Chinese University of Hong Kong
 
-Here are some ideas to get you started:
+Conatct: terrychchanhk@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## Personal
+
+Piano, table tennis, Ado music
+Hong Kong
+
+## Social
+https://www.linkedin.com/in/cchterrychan/
