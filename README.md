@@ -1,6 +1,4 @@
-# Hi, I'm Terry Chan 👋
-
-## About Me
+# Hi, I'm Terry!
 
 MSc Risk Management and Financial Engineering @ Imperial College London
 BSc Quantitative Finance and Risk Management(Minor Statistics and minor in Computer Science) @ The Chinese University of Hong Kong 
@@ -25,7 +23,7 @@ Technical Skills:
 * Excel
 * Dealogic
 
-## Projects
+** <p style="font-size:24px;">Projects</p> **
 
 ### Pairs Trading
 
@@ -37,6 +35,10 @@ Technical Skills:
 •	Price an OTC ETH accumulator with 2x gearing, 110% knock-out, and 3 weeks of guaranteed period.  
 •	Plot the implied vol surface and local vol surface, with a 2-stage filter, a 3x3 median kernel and a Gaussian kernel.  
 •	Use Monte Carlo Simulation to simulate paths on a weekly grid using the exact Euler-Maruyama scheme.  
+
+** <p style="font-size:24px;">Personal</p> **
+piano, table tennis, Ado music  
+Hong Kong  
 
 ## Socials
 <a href="https://www.linkedin.com/in/cchterrychan//">
