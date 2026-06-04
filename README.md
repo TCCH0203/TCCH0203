@@ -45,5 +45,5 @@ Hong Kong
 
 ### Socials
 <a href="https://www.linkedin.com/in/cchterrychan/" target="_blank">
-  <img src="linkedin-square-icon.png" alt="LinkedIn" width="40">
+  <img src="icona8-linkedin-48.png" alt="LinkedIn" width="40">
 </a>
