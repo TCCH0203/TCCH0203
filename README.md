@@ -6,13 +6,7 @@ MSc Risk Management and Financial Engineering
 BSc Quantitative Finance and Risk Management(Minor Statistics and minor in Computer Science)  
 @ The Chinese University of Hong Kong  
 
-Interested in:
-
-* Quantitative Finance
-* Asset Management
-* Risk Management
-* Equity Research
-* Financial Engineering
+Contact: [terrychchanhk@gmail.com](mailto:terrychchanhk@gmail.com)
 
 Technical Skills:
 
