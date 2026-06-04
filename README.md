@@ -1,7 +1,7 @@
 # Hi, I'm Terry!
 
-MSc Risk Management and Financial Engineering @ Imperial College London
-BSc Quantitative Finance and Risk Management(Minor Statistics and minor in Computer Science) @ The Chinese University of Hong Kong 
+MSc Risk Management and Financial Engineering @ Imperial College London  
+BSc Quantitative Finance and Risk Management(Minor Statistics and minor in Computer Science) @ The Chinese University of Hong Kong  
 
 Interested in:
 
@@ -23,7 +23,7 @@ Technical Skills:
 * Excel
 * Dealogic
 
-** <p style="font-size:24px;">Projects</p> **
+**Projects**  
 
 ### Pairs Trading
 
@@ -36,7 +36,7 @@ Technical Skills:
 •	Plot the implied vol surface and local vol surface, with a 2-stage filter, a 3x3 median kernel and a Gaussian kernel.  
 •	Use Monte Carlo Simulation to simulate paths on a weekly grid using the exact Euler-Maruyama scheme.  
 
-** <p style="font-size:24px;">Personal</p> **
+**Personal**  
 piano, table tennis, Ado music  
 Hong Kong  
 
