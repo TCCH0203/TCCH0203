@@ -1,6 +1,6 @@
-## Hi, I'm Terry Chan 👋
+# Hi, I'm Terry Chan 👋
 
-# About Me
+## About Me
 
 MSc Risk Management and Financial Engineering @ Imperial College London
 BSc Quantitative Finance and Risk Management(Minor Statistics and minor in Computer Science) @ The Chinese University of Hong Kong 
