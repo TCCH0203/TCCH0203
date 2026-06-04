@@ -1,9 +1,9 @@
 # Hi, I'm Terry!
 
-MSc Risk Management and Financial Engineering 
+MSc Risk Management and Financial Engineering  
 @ Imperial College London  
 
-BSc Quantitative Finance and Risk Management(Minor Statistics and minor in Computer Science) 
+BSc Quantitative Finance and Risk Management(Minor Statistics and minor in Computer Science)  
 @ The Chinese University of Hong Kong  
 
 Interested in:
@@ -46,7 +46,7 @@ Hong Kong
 ### Socials
 <a href="https://www.linkedin.com/in/cchterrychan/" target="_blank">
   <img
-    src="https://cdn.simpleicons.org/linkedin"
+    src="https://www.shareicon.net/black-linkedin-606786"
     alt="LinkedIn"
     width="40"
   />
