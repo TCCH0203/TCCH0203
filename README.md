@@ -31,7 +31,7 @@ Technical Skills:
 #### Pairs Trading  
 
 •	Research in Pairs Trading using cointegration approach with Kalman filter smoothing out the Betas.  
-•	Investigate in overlapped and non-overlapped pairs, add delayed exit mechanism, assuming the spread is continuing to converge to 0. 
+•	Investigate in overlapped and non-overlapped pairs, add delayed exit mechanism, assuming the spread is continuing to converge to 0.   
 •	Achieving 16.52% annualized return with 1.68 annualized Sharpe ratio, -5.63% max drawdown, etc 
 
 #### ETH Accumulator Pricing  
