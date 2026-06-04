@@ -8,17 +8,11 @@ BSc Quantitative Finance and Risk Management(Minor Statistics and minor in Compu
 
 Contact: [terrychchanhk@gmail.com](mailto:terrychchanhk@gmail.com)
 
-Technical Skills:
+## Technical Skills
 
-* Python
-* VBA
-* SQL
-* C++
-* javascript
-* R
-* Bloomberg
-* Excel
-* Dealogic
+| Programming | Data & Tools | Finance |
+|-------------|--------------|----------|
+| Python, C++, JavaScript, VBA, R | SQL, Excel | Bloomberg Terminal, Dealogic |  
 
 ### Projects 
 
