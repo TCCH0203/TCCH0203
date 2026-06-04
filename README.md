@@ -6,10 +6,10 @@ BSc Quantitative Finance and Risk Management(Minor Statistics and minor in Compu
 Conatct: terrychchanhk@gmail.com
 
 
-# Personal
+Personal
 
 Piano, table tennis, Ado music
 Hong Kong
 
-# Social
+Social
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cchterrychan/)
